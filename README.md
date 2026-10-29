@@ -1,2 +1,17 @@
-# Clean-City-React-Project
-CleanCity is a MERN stack-based waste complaint and tracking system that helps citizens report garbage issues, share locations, and track complaints.
+Register a new account.
+
+
+
+Log in with that account.
+
+
+
+Submit a waste complaint with a title, description, location, and photo if supported.
+
+
+
+Check whether the complaint appears in your tracking page.
+
+
+
+If you have an admin account, test updating the complaint status.
